@@ -1,0 +1,15 @@
+
+rinQueue.o:
+00000000000000f4 T addToQueue
+                 U calloc
+00000000000000b7 T deleteQueue
+                 U free
+0000000000000177 T getFromQueue
+                 U _GLOBAL_OFFSET_TABLE_
+000000000000021b T isQueueEmpty
+0000000000000234 T isQueueFull
+                 U malloc
+0000000000000000 T newQueue
+                 U printf
+0000000000000257 T printQueue
+                 U puts
