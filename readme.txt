@@ -5,3 +5,4 @@ Git status show difference between work and stage, also between stage and Master
 Git restore from stage to work.
 Git create and merge branch test.
 Git merge conflict, resolve by manually edit.
+fix bug 001.
