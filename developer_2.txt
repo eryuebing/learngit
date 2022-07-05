@@ -1,1 +1,2 @@
 Feature2 is done by developer2.
+fix a bug on Feature2 by developer1.
