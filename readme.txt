@@ -6,3 +6,4 @@ Git restore from stage to work.
 Git create and merge branch test.
 Git merge conflict, resolve by manually edit.
 fix bug 001.
+feature1 is done.
